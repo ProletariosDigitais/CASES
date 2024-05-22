@@ -20,6 +20,12 @@
 
 * Adesivo Anti-impacto Quadrado - 19.8 Mm 8 Unidades Tekbond ![Adesivo Anti-impacto Quadrado - 19.8 Mm 8 Unidades Tekbond](https://raw.githubusercontent.com/ProletariosDigitais/CASES/main/PD-01/imagens/produtos/Adesivo%20Anti-impacto%20Quadrado%20-%2019.8%20Mm%208%20Unidades%20Tekbond.webp)
 
+### Componentes se a Placa Mãe tiver menos de 8 Portas SATA:
+
+* Adaptar PCI-E x1 para M.2 NVME
+* Cabo Extensor PCI-E x1 19 cm
+* Placa M.2 NVME para 6 SATA
+
 ### Componentes Obrigatórios:
 
 * 01x Placa Mãe Mini ITX e CPU
