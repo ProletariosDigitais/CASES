@@ -18,7 +18,7 @@
 
 ### Componentes Opcionais
 
-* Adesivo Anti-impacto Quadrado - 19.8 Mm 8 Unidades Tekbond [Adesivo Anti-impacto Quadrado - 19.8 Mm 8 Unidades Tekbond](https://raw.githubusercontent.com/ProletariosDigitais/CASES/main/PD-01/imagens/produtos/Adesivo%20Anti-impacto%20Quadrado%20-%2019.8%20Mm%208%20Unidades%20Tekbond.webp)
+* Adesivo Anti-impacto Quadrado - 19.8 Mm 8 Unidades Tekbond ![Adesivo Anti-impacto Quadrado - 19.8 Mm 8 Unidades Tekbond](https://raw.githubusercontent.com/ProletariosDigitais/CASES/main/PD-01/imagens/produtos/Adesivo%20Anti-impacto%20Quadrado%20-%2019.8%20Mm%208%20Unidades%20Tekbond.webp)
 
 ## PASSO 01 - Desmontagem
 
