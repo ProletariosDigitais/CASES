@@ -1,8 +1,34 @@
 # MANUAL CASE PD-01
 
+## Componentes Inclusos no seu CASE
+
+* 01x CASE Externo (PETG)
+* 01x PAINEL Frontal (PETG)
+* 01x TRAVA Frontal HDDs (ABS)
+* 01x GUIA Frontal HDDs (ABS)
+* 01x HDD Backplane (ABS)
+* 08x Conector Backplane SATA A (ABS)
+* 08x Conector Backplane SATA B (ABS)
+* 36x Parafusos M3x10 Preto cabeça Panela
+* 02x Grade Para FAN 120mm
+* 02x Botão 16mm com Cabo
+* 15x Abraçadeira Plastica
+
+## Componentes que você precisa Comprar a Parte
+
+### Componentes Opcionais
+
+* Adesivo Anti-impacto Quadrado - 19.8 Mm 8 Unidades Tekbond
+
 ## PASSO 01 - Desmontagem
 
+### 01.A - Remover Parafusos Painel Frontal
+### 01.B - Remover Parafusos Laterais e Inferiores do Case Externo
+### 01.C - Remover Paracusos dos Conectores Backplane Sata
+
 ## PASSO 02 - Montagem conectores de cabos SATA
+
+### 02.A - 
 
 ## PASSO 03 - Montagem Placa mãe
 
