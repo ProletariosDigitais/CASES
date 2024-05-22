@@ -23,7 +23,9 @@
 
  * Emblemas (Badges): 
   Criamos um sistema de **Emblemas** para personalizar o visual do seu Case, você não é obrigado a usar o Emblema do Canal (incluso), você pode utilizar os Emblemas como Imã de Geladeira, Rack, ou qualquer outra superficie que grude imã.
+  
   Os Badges também dão excelentes porta copos para evitar manchas na sua mesa.
+  
   Temos a disposição Badges com Logos das principais ferramentas e sistemas para HomeServer/HomeLab a disposição na nossa Loja.
   (fotos)
 
