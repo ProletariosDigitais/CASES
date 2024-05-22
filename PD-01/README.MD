@@ -16,9 +16,18 @@
 
 ## Componentes que você precisa Comprar a Parte
 
-### Componentes Opcionais
+### Componentes Opcionais:
 
 * Adesivo Anti-impacto Quadrado - 19.8 Mm 8 Unidades Tekbond ![Adesivo Anti-impacto Quadrado - 19.8 Mm 8 Unidades Tekbond](https://raw.githubusercontent.com/ProletariosDigitais/CASES/main/PD-01/imagens/produtos/Adesivo%20Anti-impacto%20Quadrado%20-%2019.8%20Mm%208%20Unidades%20Tekbond.webp)
+
+### Componentes Obrigatórios:
+
+* 01x Placa Mãe Mini ITX e CPU
+* Memória RAM
+* Discos HDD ou SSD (3.5" FAT, 3.5" SLIM, 2.5") SATA (Até 8)
+* 01x Fonte FlexATX (AxLxC): 40,5 x 81,5 x 150 mm
+* 08x Cabo SATA Dados Slim 50cm
+* 02x Cabo SATA Power 1x4
 
 ## PASSO 01 - Desmontagem
 
