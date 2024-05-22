@@ -21,13 +21,15 @@
 
  * Adesivo Anti-impacto Quadrado - 19.8 Mm 8 Unidades Tekbond ![Adesivo Anti-impacto Quadrado - 19.8 Mm 8 Unidades Tekbond](https://raw.githubusercontent.com/ProletariosDigitais/CASES/main/PD-01/imagens/produtos/Adesivo%20Anti-impacto%20Quadrado%20-%2019.8%20Mm%208%20Unidades%20Tekbond.webp)
 
- * Emblemas (Badges): 
-  Criamos um sistema de **Emblemas** para personalizar o visual do seu Case, você não é obrigado a usar o Emblema do Canal (incluso), você pode utilizar os Emblemas como Imã de Geladeira, Rack, ou qualquer outra superficie que grude imã.
-  
-  Os Badges também dão excelentes porta copos para evitar manchas na sua mesa.
-  
-  Temos a disposição Badges com Logos das principais ferramentas e sistemas para HomeServer/HomeLab a disposição na nossa Loja.
-  (fotos)
+ * Emblemas (Badges)
+
+>[!TIP]
+>Criamos um sistema de **Emblemas** para personalizar o visual do seu Case, você não é obrigado a usar o Emblema do Canal (incluso), você pode utilizar os Emblemas como Imã de Geladeira, Rack, ou qualquer outra superficie que grude imã.
+>  
+>Os Badges também dão excelentes porta copos para evitar manchas na sua mesa.
+> 
+>Temos a disposição Badges com Logos das principais ferramentas e sistemas para HomeServer/HomeLab a disposição na nossa Loja.
+>(fotos)
 
 ### Componentes se a Placa Mãe tiver menos de 8 Portas SATA:
 
