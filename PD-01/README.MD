@@ -94,6 +94,31 @@
 >(fotos)
 
 ### 01.B - Remover Parafusos Laterais e Inferiores do Case Externo
+
+ * Localize e removar os 04 (quatro) parafusos do lado esquerdo do Gabinete;
+
+(foto)
+
+ * Localize e remova os 04 (quatro) parafusos do lado direito do Gabinete;
+
+(foto)
+
+ * Localize e remova os 04 (quatro) parafusos na parte de baixo do Gabinete;
+
+(foto)
+
+>[!TIP]
+>O Gabinete vai montado para garantir que todas as peças estão devidamente alinhadas e que os insertes estão bem instalados.
+>
+>Tabmém é a melhor forma para garantir que nenhuma peça fique batendo dentro da embalagem, e vai te dar uma ideia de como ele deve ser montado, depois que você colocar sua peças dentro do mesmo.
+>
+>Os parafusos do Gabinete são todos M3x10mm, com escessão dos utilizado para:
+> * Fixar os HDDs nos adaptadores (inclusos);
+> * Fixar a Fonte no Gabinete (não inclusos);
+> * Fixar a Placa Mãe no **Trilho da Motherboard** (não inclusos).
+>
+> (fotos)
+
 ### 01.C - Remover Paracusos dos Conectores Backplane Sata
 
 ## PASSO 02 - Montagem conectores de cabos SATA
