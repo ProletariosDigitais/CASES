@@ -81,7 +81,7 @@
   (fotos)
 
 >[!TIP]
->Utilizamos botões (16 mm) de uso geral com 5 pinos, estes botões contam com cabos de encaixe e trava, os cabos já vão crimpados e prontos para uso em qualquer Contector **FP1 (Front Pannel Conector** de mercado.
+>Utilizamos botões (16 mm) de uso geral com 5 pinos, estes botões contam com cabos de encaixe e trava, os cabos já vão crimpados e prontos para uso em qualquer Contector **FP1 (Front Pannel Conector)** das Placas Mãe de mercado.
 >
 >É importante tomar cuidado para não arrancar os cabos ao remover o **Painel Fronta** do Gabinete PD-01.
 >
