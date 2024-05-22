@@ -38,6 +38,17 @@
 ## PASSO 01 - Desmontagem
 
 ### 01.A - Remover Parafusos Painel Frontal
+  * Identifique os 06 (seis) parafusos que prendem o **Painel Frontal** e remová-os;
+  (fotos)
+  
+  * Puxe o **Painel Frontal** para frente com cuidado para não romper os cabos dos **Botões Frontais de Power e Reset**;
+  (fotos)
+  
+  * Aperte a trava dos cabos para liberá-los dos botões;
+  (fotos)
+
+  * Após liberar os cabos remova completamente o **Painel Frontal**;
+
 ### 01.B - Remover Parafusos Laterais e Inferiores do Case Externo
 ### 01.C - Remover Paracusos dos Conectores Backplane Sata
 
