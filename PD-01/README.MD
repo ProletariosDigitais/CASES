@@ -48,7 +48,7 @@
 
 * Placa M.2 NVME para 6 SATA ([Link Aliexpress](https://s.click.aliexpress.com/e/_De0BpZN))
 
-(foto)
+![Placa M.2 NVME para 6 SATA](https://raw.githubusercontent.com/ProletariosDigitais/CASES/main/PD-01/imagens/produtos/Adapter_M2_NVME_to_6_SATA.webp)
 
 >[!TIP]
 >A idéia desses componentes é adicionar mais 6 portas SATA ao sistema, normalmente a maioria das placas Mini ITX contam com 2 portas SATA on-board.
