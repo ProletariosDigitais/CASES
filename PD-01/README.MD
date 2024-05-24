@@ -23,6 +23,8 @@
 
 ![Adesivo Anti-impacto Quadrado - 19.8 Mm 8 Unidades Tekbond](https://raw.githubusercontent.com/ProletariosDigitais/CASES/main/PD-01/imagens/produtos/Adesivo%20Anti-impacto%20Quadrado%20-%2019.8%20Mm%208%20Unidades%20Tekbond.webp)
 
+ * Se os FANs não forem do modelo indicado neste manual, há a possibilidade dos cabos serem muito curtos, e você vai precisar de um **Cabo Extensor em Y para FAN PWM**;
+
  * Emblemas (Badges)
 
 >[!TIP]
@@ -122,6 +124,10 @@
 > * Fixar a Placa Mãe no **Trilho da Motherboard** (não inclusos).
 >
 > (fotos)
+
+ * Remover os 02 (dois) parafusos que prendem a **Trava Frontal de HDD** ao **Guia Frontal de HDD**;
+
+(foto)
 
 ### 01.C - Remover Parafusos dos Conectores Backplane Sata
 
@@ -253,12 +259,107 @@
 
 ## PASSO 04 - Montagem FANs
 
+ * Veja se o seu FAN conta com Setas Indicativas da direção do Ar, a seta deve estar posicionada para fora do Cabinete;
+
+(foto)
+
+ * Instale a **Grelha dos FANs** no lado do FAN foltado para dentro do Gabinete, utilize as braçadeiras plasticas inclusas;
+
+(foto)
+
+ * Organize os Cabos dos Seus FANs conforme a imagem abaixo;
+
+(foto)
+
+ * Alinhe os buracos de cada FAN com os do Gabinete, utilize para fusos próprios para FANs (normalmente fornecidos na embalagem dos FANs), para fixar os FANs ao Gabinete;
+
+(foto)
+
 ## PASSO 05 - Montagem Fonte/PSU
+
+ * Posicione a Fonte no Local indicado, na orientação conforme a imagem;
+
+(foto)
+
+ * Plugue o Cabo de 24 Pinos na Placa Mãe;
+
+(foto)
+
+ * Plugue o Cabo de 8 ou 4 Pinos na Placa mãe;
+
+(foto)
+
+* Plugue os Cabos SATA Power nos conectores SATA da Fonte de Alimentação;
+
+(foto)
+
+* Verifique se o Parafuso de Retenção e Suporte da Fonte está instalado no Local Indicado;
+
+(foto)
 
 ## PASSO 06 - Montagem Componentes no Case
 
+ * Deslize o Frame Interno com os Cabos SATA, Placa Mãe, Placa Sata e Fonte no Case;
+
+(foto)
+
+ * Instale os Parafusos da Fonte na Parte Traseira (os parafusos devem ter sido fornecidos junto com a fonte, são Parafusos M3x6);
+
+(foto)
+
+ * Instale os 4 (quatro) Parafusos na Parte Inferior do Case;
+
+(foto)
+
+ * Instale os 4 (quatro) Parafusos em cada Lateral do Gabinete, os parafusos não devem entrar tordos, alinhe o Frame nos furos do Gabinete, os parafusos devem ser capazes de iniciar o parafusamento com as mãos, se estiverem muito duros **NÃO FORCE**, remova e tente novamente;
+
+(foto)
+
 ## PASSO 07 - Montagem Discos
+
+ * Dependendo do Tipo do Disco (3,5" Fat ou Slim, ou 2,5") pode ser necessária a utilização de um ou mais adaptadores (inclusos);
+
+(foto)
+
+ * Para HDDs de 3,5" com espeçura de xx mm, não é necessário o uso de nenhum adaptador, e o mesmo pode ser inserido no SLOT até que o usuário sinta um leve clique do encaixe dos conectores;
+
+(foto)
+
+ * Para HDDs de 3,5" Slim com espeçura de xx mm, será necessário o uso do Adaptar abaixo para que o Disco não fique solto no SLOT, após a instalação basta deslizar o Disco no SLOT até que o usuário sinta um leve clique do encaixe dos conectores;
+
+(foto)
+
+ * Para HDDs/SSDs de 2,5". será necessário o uso de ambos os Adaptadores, um que converte o Disco de 2,5" no tamaho exato de um disco SLIM de 3,5", e depois o Adaptador de 2,5" SLIM para FAT (inclusos), depois basta deslizar o Disco no SLOT até que o usuário sinta um leve clique do encaixe dos conectores;
+
+(foto)
+
+ * Instale todos os Discos que deseja utilizar nos SLOTs, e complete os demais SLOTs com os Adaptadores Vazios (inclusos);
+
+(foto)
+
+ * Instale a **Trava Frontal de HDDs** com os 02 (dois) parafusos M3x10 (inclusos);
+
+(foto)
 
 ## PASSO 08 - Montagem Painel Frontal
 
+ * Posicione o Painel Frontal com os Botões voltados para a parte de cima do Gabibnete;
+
+(foto)
+
+ * Alinhe os furos do Gabinete com as rocas dos Inserts, e reinstale os parafusos, incie pelos dois parafusos Centrais de cada Lado;
+
+(foto)
+
 ## PASSO 09 - Montagem Pés Silicone do Case
+
+ * Vire o Gabinete para ter acesso a parte inferior;
+
+(foto)
+
+ * Remova os Pés de Silicone da cartela;
+
+(foto)
+
+ * Encaixe cada um dos 04 (quatro) pés de silicone nos locais apropriados do Gabinete;
+
