@@ -38,16 +38,34 @@
 
 ### Componentes se a Placa Mãe tiver menos de 8 Portas SATA:
 
-* Adaptar PCI-E x1 para M.2 NVME
-* Cabo Extensor PCI-E x1 19 cm
-* Placa M.2 NVME para 6 SATA
+* Adaptar PCI-E x1 para M.2 NVME ([Link Aliexpress](https://s.click.aliexpress.com/e/_DnC1Ie3))
+
+(foto)
+
+* Cabo Extensor PCI-E x1 19 cm ([Link Aliexpress](https://s.click.aliexpress.com/e/_DeIG6Vt))
+
+(foto)
+
+* Placa M.2 NVME para 6 SATA ([Link Aliexpress](https://s.click.aliexpress.com/e/_De0BpZN))
+
+(foto)
 
 >[!TIP]
 >A idéia desses componentes é adicionar mais 6 portas SATA ao sistema, normalmente a maioria das placas Mini ITX contam com 2 portas SATA on-board.
+>
+>O Anuncio tem Opção NGFF to SATA, NVME to 5 SATA, não escolha nenhuma dessas, a Correta é **NVME to 6 SATA**.
 
 ### Componentes Obrigatórios:
 
 * 01x Placa Mãe Mini ITX e CPU
+ * ASRock Q1900B-ITX **2 SATA | Celeron J1900 QuadCore Q4'13 ** ([Link Aliexpress](https://s.click.aliexpress.com/e/_DCpc6lt))
+ * MSI J1900i **2 SATA | Celeron J1900 QuadCore Q4'13**
+ * ASUS J3355I-C **2 SATA | Celeron J3355 DualCore Q3'16** ([Link Aliexpress](https://s.click.aliexpress.com/e/_DdRBSw7))
+ * ASRock J3455-ITX **4 SATA | Celeron J3455 QuadCore Q3'16** ([Link Aliexpress](https://s.click.aliexpress.com/e/_DDhtf2r))
+ * ASRock J4105-ITX **4 SATA | Celeton J4105 QuadCore Q4'17** ([Link Aliexpress](https://s.click.aliexpress.com/e/_DdRBSw7))
+ * Placa-Mãe NAS Industrial, N5105, 4 Núcleos, 4 Threads, Processador de Baixa Energia, 4x2.5G, Rede i225, 2 M.2 Slot, 6x Slot, DP HD ([Link Aliexpress](https://s.click.aliexpress.com/e/_DeHXTz9))
+ * Mini ITX Motherboard com PCIE, N100, i3-N305, 6 baías, NAS, 4x, 2.5GNetwork Card, 6x, SATA 3.0, 2x, M.2, NVMe, DDR5, 17x17, X17, NAS DIY ([Link Aliexpress](https://s.click.aliexpress.com/e/_DFm5E8f))
+ * Placa Mãe NAS N100 para Soft Router, Servidor de Armazenamento, DDR5, 6 x SATA 3.0, 4X, Intel I226, 2.5G, Mini ITX, 17x17cm, 2 x M.2, 1XPCIE, DIY ([Link Aliexpress](https://s.click.aliexpress.com/e/_DClp8bV))
 * Memória RAM
 * Discos HDD ou SSD (3.5" FAT, 3.5" SLIM, 2.5") SATA (Até 8)
 * 01x Fonte FlexATX (AxLxC): 40,5 x 81,5 x 150 mm (Recomendo usar o Modelo **__BLU200FLEX-1UBLK__**, melhor lugar pra comprar é o **Mercado Livre**)
@@ -58,13 +76,23 @@
 ![Cabo SATA Dados Slim 50cm](https://raw.githubusercontent.com/ProletariosDigitais/CASES/main/PD-01/imagens/produtos/SATA_dados_1x6.webp)
 
 >[!TIP]
->É mais barato comprar dois cabos com x6 SATA, e remover 2 deles para ficar com 8, do que comprar dois x4.
+>É mais barato comprar dois cabos com x6 SATA, e remover 04(quatro) deles para ficar com 08 (oito), do que comprar dois x4 SATA.
 
-* 02x Cabo SATA Power 1x4 
+* 02x Cabo SATA Power 1x4 ([Link Aliexpress1](https://s.click.aliexpress.com/e/_DDzuAkX) | [Link Aliexpress 2](https://pt.aliexpress.com/item/1005005562163067.html?algo_pvid=59dcfe46-8192-4eb0-8adf-cacba2639de7&algo_exp_id=59dcfe46-8192-4eb0-8adf-cacba2639de7-0&pdp_npi=4%40dis%21BRL%2115.93%2115.93%21%21%2121.41%2121.41%21%402101e62517165884526243441e0d79%2112000033551592458%21sea%21BR%21194769171%21&curPageLogUid=cO9AjjXZtepC&utparam-url=scene%3Asearch%7Cquery_from%3A))
 
 ![Cabo SATA Power 1x4](https://raw.githubusercontent.com/ProletariosDigitais/CASES/main/PD-01/imagens/produtos/SATA_power_1x4.webp)
 
-* 02x FANs 120mm SLIM (120x120x15mm)
+>[!TIP}
+>O Adaptador foi projetado para usar o Cabo com a saida dos Fios pela parte traseira do conector, não utilizar outro tipo de cabo.
+
+>[!CAUTION]
+>Evite a todo Custo utilizar o Cabo com Conector **MOLEX IDE ANTIGO**, eu comprei um cabo desses para testar e ele simplesmente **PEGOU FOGO** no primeiro uso.
+>O cabo seguro para ser utilizado é o indicado nos Links.
+
+* 02x FANs 120mm SLIM (120x120x15mm) ([Link Aliexpress](https://s.click.aliexpress.com/e/_DF1OFvz))
+
+>[!TIP]
+>Esse é um KIT com 02 (duas) unidades do FAN que uso aqui, ele é bem forte e silenioso, para manter meu servidor completamente silencioso eu reduzi na BIOS a velocidade dos FANs para 30%.
 
 (foto)
 
