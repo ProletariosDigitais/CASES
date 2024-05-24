@@ -50,12 +50,16 @@
 * 01x Placa Mãe Mini ITX e CPU
 * Memória RAM
 * Discos HDD ou SSD (3.5" FAT, 3.5" SLIM, 2.5") SATA (Até 8)
-* 01x Fonte FlexATX (AxLxC): 40,5 x 81,5 x 150 mm 
+* 01x Fonte FlexATX (AxLxC): 40,5 x 81,5 x 150 mm (Recomendo usar o Modelo **__BLU200FLEX-1UBLK__**, melhor lugar pra comprar é o **Mercado Livre**)
 
 ![Fonte FlexATX](https://raw.githubusercontent.com/ProletariosDigitais/CASES/main/PD-01/imagens/produtos/Fonte%20Atx%20Flex%201u%20Bluecase%20200w.webp)
-* 08x Cabo SATA Dados Slim 50cm 
+* 08x Cabo SATA Dados Slim 50cm ([Link Aliexpress](https://s.click.aliexpress.com/e/_DlPXqI3))
 
 ![Cabo SATA Dados Slim 50cm](https://raw.githubusercontent.com/ProletariosDigitais/CASES/main/PD-01/imagens/produtos/SATA_dados_1x6.webp)
+
+>[!TIP]
+>É mais barato comprar dois cabos com x6 SATA, e remover 2 deles para ficar com 8, do que comprar dois x4.
+
 * 02x Cabo SATA Power 1x4 
 
 ![Cabo SATA Power 1x4](https://raw.githubusercontent.com/ProletariosDigitais/CASES/main/PD-01/imagens/produtos/SATA_power_1x4.webp)
