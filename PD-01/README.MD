@@ -66,6 +66,7 @@
  * Placa-Mãe NAS Industrial, N5105, 4 Núcleos, 4 Threads, Processador de Baixa Energia, 4x2.5G, Rede i225, 2 M.2 Slot, 6x Slot, DP HD ([Link Aliexpress](https://s.click.aliexpress.com/e/_DeHXTz9))
  * Mini ITX Motherboard com PCIE, N100, i3-N305, 6 baías, NAS, 4x, 2.5GNetwork Card, 6x, SATA 3.0, 2x, M.2, NVMe, DDR5, 17x17, X17, NAS DIY ([Link Aliexpress](https://s.click.aliexpress.com/e/_DFm5E8f))
  * Placa Mãe NAS N100 para Soft Router, Servidor de Armazenamento, DDR5, 6 x SATA 3.0, 4X, Intel I226, 2.5G, Mini ITX, 17x17cm, 2 x M.2, 1XPCIE, DIY ([Link Aliexpress](https://s.click.aliexpress.com/e/_DClp8bV))
+* CPU Cooling Low Profile Para Placas ITX Intel Core e AMD ([Link Aliexpress](https://s.click.aliexpress.com/e/_DDnLGFd))
 * Memória RAM
 * Discos HDD ou SSD (3.5" FAT, 3.5" SLIM, 2.5") SATA (Até 8)
 * 01x Fonte FlexATX (AxLxC): 40,5 x 81,5 x 150 mm (Recomendo usar o Modelo **__BLU200FLEX-1UBLK__**, melhor lugar pra comprar é o **Mercado Livre**)
