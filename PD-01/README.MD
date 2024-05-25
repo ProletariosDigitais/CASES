@@ -61,7 +61,7 @@
 > Estes componentes são essenciais para que o seu HomeServer funcione, sem algum deles o sistema não estará completo.
 
 * 01x Placa Mãe Mini ITX e CPU
-  - ASRock Q1900B-ITX **2 SATA | Celeron J1900 QuadCore Q4'13 ** ([Link Aliexpress](https://s.click.aliexpress.com/e/_DCpc6lt))
+  - ASRock Q1900B-ITX **2 SATA | Celeron J1900 QuadCore Q4'13** ([Link Aliexpress](https://s.click.aliexpress.com/e/_DCpc6lt))
   - MSI J1900i **2 SATA | Celeron J1900 QuadCore Q4'13**
   - ASUS J3355I-C **2 SATA | Celeron J3355 DualCore Q3'16** ([Link Aliexpress](https://s.click.aliexpress.com/e/_DdRBSw7))
   - ASRock J3455-ITX **4 SATA | Celeron J3455 QuadCore Q3'16** ([Link Aliexpress](https://s.click.aliexpress.com/e/_DDhtf2r))
