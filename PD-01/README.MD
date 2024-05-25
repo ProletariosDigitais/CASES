@@ -96,7 +96,7 @@
 
 ![Cabo SATA Power 1x4](https://raw.githubusercontent.com/ProletariosDigitais/CASES/main/PD-01/imagens/produtos/SATA_power_1x4.webp)
 
->[!TIP}
+>[!TIP]
 >O Adaptador foi projetado para usar o Cabo com a saida dos Fios pela parte traseira do conector, não utilizar outro tipo de cabo.
 
 >[!CAUTION]
