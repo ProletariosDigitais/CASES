@@ -57,6 +57,9 @@
 
 ### Componentes Obrigatórios:
 
+>[!TIP]
+> Estes componentes são essenciais para que o seu HomeServer funcione, sem algum deles o sistema não estará completo.
+
 * 01x Placa Mãe Mini ITX e CPU
   - ASRock Q1900B-ITX **2 SATA | Celeron J1900 QuadCore Q4'13 ** ([Link Aliexpress](https://s.click.aliexpress.com/e/_DCpc6lt))
   - MSI J1900i **2 SATA | Celeron J1900 QuadCore Q4'13**
@@ -109,9 +112,6 @@
 >Esse é um KIT com 02 (duas) unidades do FAN que uso aqui, ele é bem forte e silenioso, para manter meu servidor completamente silencioso eu reduzi na BIOS a velocidade dos FANs para 30%.
 
 ![02x FANs 120mm SLIM (120x120x15mm)](https://raw.githubusercontent.com/ProletariosDigitais/CASES/main/PD-01/imagens/produtos/FAN_NO-12015-XT.webp)
-
->[!TIP]
-> Estes componentes são essenciais para que o seu HomeServer funcione, sem algum deles o sistema não estará completo.
 
 ## PASSO 01 - Desmontagem
 
