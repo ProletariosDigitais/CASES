@@ -40,11 +40,11 @@
 
 * Adaptar PCI-E x1 para M.2 NVME ([Link Aliexpress](https://s.click.aliexpress.com/e/_DnC1Ie3))
 
-(foto)
+![Adaptar PCI-E x1 para M.2 NVME](https://raw.githubusercontent.com/ProletariosDigitais/CASES/main/PD-01/imagens/produtos/Adapter_PCI-E_to_M2.webp)
 
 * Cabo Extensor PCI-E x1 19 cm ([Link Aliexpress](https://s.click.aliexpress.com/e/_DeIG6Vt))
 
-(foto)
+![Cabo Extensor PCI-E x1 19 cm](https://github.com/ProletariosDigitais/CASES/blob/main/PD-01/imagens/produtos/CABO_PCIEx1.jpg?raw=true)
 
 * Placa M.2 NVME para 6 SATA ([Link Aliexpress](https://s.click.aliexpress.com/e/_De0BpZN))
 
@@ -67,6 +67,9 @@
   - Mini ITX Motherboard com PCIE, N100, i3-N305, 6 baías, NAS, 4x, 2.5GNetwork Card, 6x, SATA 3.0, 2x, M.2, NVMe, DDR5, 17x17, X17, NAS DIY ([Link Aliexpress](https://s.click.aliexpress.com/e/_DFm5E8f))
   - Placa Mãe NAS N100 para Soft Router, Servidor de Armazenamento, DDR5, 6 x SATA 3.0, 4X, Intel I226, 2.5G, Mini ITX, 17x17cm, 2 x M.2, 1XPCIE, DIY ([Link Aliexpress](https://s.click.aliexpress.com/e/_DClp8bV))
 * CPU Cooling Low Profile Para Placas ITX Intel Core e AMD ([Link Aliexpress](https://s.click.aliexpress.com/e/_DDnLGFd))
+
+![CPU Cooling Low Profile Para Placas ITX Intel Core e AMD](https://raw.githubusercontent.com/ProletariosDigitais/CASES/main/PD-01/imagens/produtos/CPU_COOLER_LOW_PROFILE.webp)
+
 * Memória RAM
   - DDR3 SO-DIM (Padrão Notebook) 8 GB ([Link Aliexpress 1](https://s.click.aliexpress.com/e/_DlP8jcb) | [Link Aliexpress 2](https://s.click.aliexpress.com/e/_DehXRsj) | [Link Aliexpress 3](https://s.click.aliexpress.com/e/_DDx2gTz))
   - DDR4 SO-DIM (Padrão Notebook) 8 GB ([Link Aliexpress 1](https://s.click.aliexpress.com/e/_DBG586T) | [Link Aliexpress 2](https://s.click.aliexpress.com/e/_DB9aSxd) | [Link Aliexpress 3](https://s.click.aliexpress.com/e/_DnMFeqT))
@@ -105,7 +108,7 @@
 >[!TIP]
 >Esse é um KIT com 02 (duas) unidades do FAN que uso aqui, ele é bem forte e silenioso, para manter meu servidor completamente silencioso eu reduzi na BIOS a velocidade dos FANs para 30%.
 
-(foto)
+![02x FANs 120mm SLIM (120x120x15mm)](https://raw.githubusercontent.com/ProletariosDigitais/CASES/main/PD-01/imagens/produtos/FAN_NO-12015-XT.webp)
 
 >[!TIP]
 > Estes componentes são essenciais para que o seu HomeServer funcione, sem algum deles o sistema não estará completo.
