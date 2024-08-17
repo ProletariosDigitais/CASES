@@ -89,7 +89,9 @@
 
 ![Fonte FlexATX](https://raw.githubusercontent.com/ProletariosDigitais/CASES/main/PD-01/imagens/produtos/Fonte%20Atx%20Flex%201u%20Bluecase%20200w.webp)
 * 02x Cabo SATA Dados Slim 50cm 1x6 ([Link Aliexpress](https://s.click.aliexpress.com/e/_DlPXqI3))
+
 ou
+
 * 01x Cabo SATA Dados Slim 50cm 1x8 ([Link Aliexpress](https://s.click.aliexpress.com/e/_DlAUV2T))
 
 ![Cabo SATA Dados Slim 50cm 1x6](https://raw.githubusercontent.com/ProletariosDigitais/CASES/main/PD-01/imagens/produtos/SATA_dados_1x6.webp)
