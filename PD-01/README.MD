@@ -104,8 +104,6 @@ ou
 
 * 02x Cabo SATA Power 1x4 ([Link Aliexpress1](https://s.click.aliexpress.com/e/_DDzuAkX) | [Link Aliexpress 2](https://pt.aliexpress.com/item/1005005562163067.html?algo_pvid=59dcfe46-8192-4eb0-8adf-cacba2639de7&algo_exp_id=59dcfe46-8192-4eb0-8adf-cacba2639de7-0&pdp_npi=4%40dis%21BRL%2115.93%2115.93%21%21%2121.41%2121.41%21%402101e62517165884526243441e0d79%2112000033551592458%21sea%21BR%21194769171%21&curPageLogUid=cO9AjjXZtepC&utparam-url=scene%3Asearch%7Cquery_from%3A))
 
-* 01x Cabo SATA 
-
 ![Cabo SATA Power 1x4](https://raw.githubusercontent.com/ProletariosDigitais/CASES/main/PD-01/imagens/produtos/SATA_power_1x4.webp)
 
 >[!TIP]
