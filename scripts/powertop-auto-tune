@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+
+sleep 60
+powertop --auto-tune
