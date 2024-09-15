@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+
+snapraid sync || true
