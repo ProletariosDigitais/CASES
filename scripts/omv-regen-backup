@@ -1,3 +1,3 @@
 #!/usr/bin/bash
 
-omv-regen backup && /usr/bin/rsync -axHAXWESP --progress --preallocate --remove-source-files /ORBackup root@10.13.13.2:/srv/mergerfs/SSDADOS/BACKUP/Kimiko && rm -rv /ORBackup/
+/usr/sbin/omv-regen backup && /usr/bin/rsync -axHAXWESP --progress --preallocate --remove-source-files /ORBackup root@10.13.13.2:/srv/mergerfs/SSDADOS/BACKUP/Kimiko && rm -rv /ORBackup/
