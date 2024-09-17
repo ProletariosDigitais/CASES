@@ -15,7 +15,7 @@ set -o errexit
 
 touch "/var/lock/mergerfs.percent-full.mover.lock"
 
-while [ $(df --output=pcent "${CACHE}" | grep -v Use | cut -d'%' -f1) -gt ${PERCENTAGE} ]
+while [ $(df --output=pcent "${CACHE}" | grep -v Us[eo] | cut -d'%' -f1) -gt ${PERCENTAGE} ]
 do
     FILE=$(find "${CACHE}" -type f -printf '%A@ %P\n' | \
                   sort | \
