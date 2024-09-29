@@ -1,3 +1,11 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 
-/usr/sbin/omv-regen backup && /usr/bin/rsync -axHAXWESP --progress --preallocate --remove-source-files /ORBackup root@10.13.13.2:/srv/mergerfs/SSDADOS/BACKUP/$(hostname) && rm -rv /ORBackup/
+wget -O - https://raw.githubusercontent.com/xhente/omv-regen/master/omv-regen.sh | bash
+
+mkdir /ORBackup
+
+/usr/sbin/omv-regen backup && /usr/bin/rsync -axHAXWESP --progress --preallocate --remove-source-files /ORBackup /srv/mergerfs/hddpool/ONEDRIVE/ONEDRIVE_KIMIKO_OMV_BKP/ && rm -rv /ORBackup/
+
+echo -e "\nPRONTO!\n"
+
+exit
